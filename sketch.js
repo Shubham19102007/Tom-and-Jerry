@@ -8,7 +8,7 @@ var garden,gardenimg
 function preload() {
   ratimg=loadImage("images/mouse1.png")
 cat_running=loadImage("images/cat3.png")
-gardenimg=loadImage("images/garden.png")
+
 
 
 
